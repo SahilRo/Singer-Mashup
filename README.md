@@ -1,5 +1,6 @@
 
 # <h1 align="center">Singer Mashup</h1>
+# <h2 align="center"> DATA SCIENCE PROJECT </h2>
 ![App Screenshot](https://i.scdn.co/image/ab67616d0000b27330336362ff20f25cabae1556)
 #### Welcome to Singer Mashup, an exciting command-line project that allows you to create unique audio mashups by combining songs from your favorite singer. This project leverages web scraping, audio processing, and seamless file manipulation to deliver a customized and delightful musical experience. Get ready to express your creativity and embark on a journey of audio fusion!
 
